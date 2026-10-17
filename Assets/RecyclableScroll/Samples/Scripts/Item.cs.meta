@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b8ea19819e286441a8fe4ba1dfaf4e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375834
+  packageName: Recyclable Scroll - Reusing UI Elements
+  packageVersion: 0.1.2
+  assetPath: Assets/RecyclableScroll/Samples/Scripts/Item.cs
+  uploadId: 918114

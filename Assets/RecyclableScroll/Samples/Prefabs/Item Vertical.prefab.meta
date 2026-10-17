@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf94786b8d96b81498db37c84716d6c8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375834
+  packageName: Recyclable Scroll - Reusing UI Elements
+  packageVersion: 0.1.2
+  assetPath: Assets/RecyclableScroll/Samples/Prefabs/Item Vertical.prefab
+  uploadId: 918114

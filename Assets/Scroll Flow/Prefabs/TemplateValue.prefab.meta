@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec5178f5f4697b3459d39d4ffe505824
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190674
+  packageName: Scroll Flow
+  packageVersion: 1.5
+  assetPath: Assets/Scroll Flow/Prefabs/TemplateValue.prefab
+  uploadId: 528097

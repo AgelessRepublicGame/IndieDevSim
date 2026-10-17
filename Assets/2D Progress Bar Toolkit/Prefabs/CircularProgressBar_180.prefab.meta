@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: de70efd27ac5e49bd8cebff8c77305f4
+timeCreated: 1491669755
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87620
+  packageName: Progress Bar Kit
+  packageVersion: 4.2
+  assetPath: Assets/2D Progress Bar Toolkit/Prefabs/CircularProgressBar_180.prefab
+  uploadId: 557246

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 827d26cc5a5a043df95578c9a022dead
+timeCreated: 1491671485
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87620
+  packageName: Progress Bar Kit
+  packageVersion: 4.2
+  assetPath: Assets/2D Progress Bar Toolkit/Prefabs/ProgressBar.prefab
+  uploadId: 557246

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ee061ee7765f93948a65f39ada96dcf1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190674
+  packageName: Scroll Flow
+  packageVersion: 1.5
+  assetPath: Assets/Scroll Flow/Scripts/AutoSizeLayoutScrollFlow.cs
+  uploadId: 528097

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ebd0c2e81c46afe4ca4478a818dcb307
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375834
+  packageName: Recyclable Scroll - Reusing UI Elements
+  packageVersion: 0.1.2
+  assetPath: Assets/RecyclableScroll/Samples/Prefabs/Item Horizontal.prefab
+  uploadId: 918114

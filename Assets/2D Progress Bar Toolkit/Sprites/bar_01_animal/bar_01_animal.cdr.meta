@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9aa7000e59c094345845340d345c4a82
+timeCreated: 1512662861
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87620
+  packageName: Progress Bar Kit
+  packageVersion: 4.2
+  assetPath: Assets/2D Progress Bar Toolkit/Sprites/bar_01_animal/bar_01_animal.cdr
+  uploadId: 557246

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3551f2ca31f84ed5a710e3e5c278c0a
+timeCreated: 1512662861
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87620
+  packageName: Progress Bar Kit
+  packageVersion: 4.2
+  assetPath: Assets/2D Progress Bar Toolkit/Sprites/bar_02_candy/bar_02_candy.cdr
+  uploadId: 557246

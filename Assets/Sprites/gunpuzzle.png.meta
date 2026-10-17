@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 7b9303f4810fef24eb2725a399f07d6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8619177614227895239
+    second: gunpuzzle_0
+  - first:
+      213: 1927277208293597639
+    second: gunpuzzle_1
+  - first:
+      213: -3450893579820143085
+    second: gunpuzzle_2
+  - first:
+      213: -1329064482448017543
+    second: gunpuzzle_3
+  - first:
+      213: 4532395937342710909
+    second: gunpuzzle_4
+  - first:
+      213: -662848424182834483
+    second: gunpuzzle_5
+  - first:
+      213: -2511966300334318128
+    second: gunpuzzle_6
+  - first:
+      213: -5283940461820146150
+    second: gunpuzzle_7
+  - first:
+      213: 6448021501574783626
+    second: gunpuzzle_8
+  - first:
+      213: 4574288188636301165
+    second: gunpuzzle_9
+  - first:
+      213: 5926468276357311076
+    second: gunpuzzle_10
+  - first:
+      213: -7372411716767266540
+    second: gunpuzzle_11
+  - first:
+      213: 61003436389616622
+    second: gunpuzzle_12
+  - first:
+      213: -4402060895184604848
+    second: gunpuzzle_13
+  - first:
+      213: -5952754079052954048
+    second: gunpuzzle_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gunpuzzle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1081
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c37d00bf587d9770800000000000000
+      internalID: 8619177614227895239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 638
+        width: 755
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1eb08e8601fba10800000000000000
+      internalID: 1927277208293597639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_2
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 830
+        width: 6
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ee421a296fb10d0800000000000000
+      internalID: -3450893579820143085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_3
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 759
+        width: 352
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977f81815e63e8de0800000000000000
+      internalID: -1329064482448017543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 447
+        width: 318
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746cb2671e46ee30800000000000000
+      internalID: 4532395937342710909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_5
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 403
+        width: 156
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca97a0ced61dc6f0800000000000000
+      internalID: -662848424182834483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 540
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd12d475f3b32dd0800000000000000
+      internalID: -2511966300334318128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_7
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 412
+        width: 328
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e85ee352caba6b0800000000000000
+      internalID: -5283940461820146150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 366
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8222718469fb7950800000000000000
+      internalID: 6448021501574783626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 259
+        width: 231
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d678ee73fd22b7f30800000000000000
+      internalID: 4574288188636301165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 116
+        width: 164
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a26e06f7b0f3250800000000000000
+      internalID: 5926468276357311076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 91
+        width: 243
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419c824ba9eefa990800000000000000
+      internalID: -7372411716767266540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_12
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 83
+        width: 118
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebc41c5d4ab8d000800000000000000
+      internalID: 61003436389616622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_13
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 72
+        width: 156
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05132ee50fcb8e2c0800000000000000
+      internalID: -4402060895184604848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunpuzzle_14
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 73
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0468ac244b1936da0800000000000000
+      internalID: -5952754079052954048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gunpuzzle_0: 8619177614227895239
+      gunpuzzle_1: 1927277208293597639
+      gunpuzzle_10: 5926468276357311076
+      gunpuzzle_11: -7372411716767266540
+      gunpuzzle_12: 61003436389616622
+      gunpuzzle_13: -4402060895184604848
+      gunpuzzle_14: -5952754079052954048
+      gunpuzzle_2: -3450893579820143085
+      gunpuzzle_3: -1329064482448017543
+      gunpuzzle_4: 4532395937342710909
+      gunpuzzle_5: -662848424182834483
+      gunpuzzle_6: -2511966300334318128
+      gunpuzzle_7: -5283940461820146150
+      gunpuzzle_8: 6448021501574783626
+      gunpuzzle_9: 4574288188636301165
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

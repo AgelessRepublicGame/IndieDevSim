@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5667cac651955634c849427787500207
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190674
+  packageName: Scroll Flow
+  packageVersion: 1.5
+  assetPath: Assets/Scroll Flow/Prefabs/ScrollSystem.prefab
+  uploadId: 528097

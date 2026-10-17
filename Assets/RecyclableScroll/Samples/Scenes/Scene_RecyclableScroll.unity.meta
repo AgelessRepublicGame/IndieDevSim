@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2dcda4358b37f764dadd8eae204371cf
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375834
+  packageName: Recyclable Scroll - Reusing UI Elements
+  packageVersion: 0.1.2
+  assetPath: Assets/RecyclableScroll/Samples/Scenes/Scene_RecyclableScroll.unity
+  uploadId: 918114
